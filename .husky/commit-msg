@@ -1,1 +1,1 @@
-lint-staged
+pnpm commitlint ${1}
